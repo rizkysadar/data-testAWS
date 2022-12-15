@@ -17,7 +17,7 @@ npm install
 npm run start
 ```
 
-*noted : jika mendapatkan error, jalankan noje.js pada web server node.js
+*noted : jika mendapatkan error, jalankan node.js pada web server node.js
 ---
 cd data-testAWS
 ---
